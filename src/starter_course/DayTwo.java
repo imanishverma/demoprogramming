@@ -1,6 +1,6 @@
 package starter_course;
 
-public class AaluDum {
+public class DayTwo {
 
     public static double doDivision(double x, double y) {
         if (x > y) {

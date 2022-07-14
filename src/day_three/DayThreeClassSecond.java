@@ -1,14 +1,14 @@
 package day_three;
 
-import starter_course.AaluKachaalo;
+import starter_course.DayOne;
 
-import static starter_course.AaluKachaalo.printHello;
+import static starter_course.DayOne.printHello;
 
 public class DayThreeClassSecond {
 
     public static void main(String[] args) {
         printHello("Java");
-        AaluKachaalo ak = new AaluKachaalo(); //instance creation
+        DayOne ak = new DayOne(); //instance creation
         double v1 = ak.returnSquareOfNumber(1735.44987654345);
         double v2 = ak.returnQuadOfNumber(987656.7654);
         double v3 = ak.returnCubeRootOfNumber(711654.654);

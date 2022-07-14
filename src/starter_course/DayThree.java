@@ -1,7 +1,7 @@
 package starter_course;
 
 
-import static starter_course.AaluKachaalo.printHello;
+import static starter_course.DayOne.printHello;
 
 public class DayThree {
 

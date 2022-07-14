@@ -1,6 +1,6 @@
 package starter_course;
 
-public class AaluKachaalo {
+public class DayOne {
 
     public double PI = 3.141234565431343562345324244;
     public String learn =  "We are learning programming with Java!";
